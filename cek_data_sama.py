@@ -1,5 +1,6 @@
 ###framework django
 '''
+Analogi no ktp yg sama.
 Mengambil data jika ada no ktp yang sama, sample model namanya Konsumen
 '''
 
