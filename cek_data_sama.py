@@ -1,7 +1,7 @@
 ###framework django
 '''
-Analogi no ktp yg sama.
-Mengambil data jika ada no ktp yang sama, sample model namanya Konsumen
+Mengecek no ktp yg sama di dalam tabel yang sama.
+Sample model namanya Konsumen
 '''
 
 from django.db.models import Count
